@@ -5,22 +5,23 @@ Anxiety disorders affect millions globally, and accurate classification of anxie
 
 The dataset consists of 1566 records with the following key features:
 
-age (int): Age of the individual.
-gender (object): Gender of the individual
-bmi (float): Body Mass Index of the individual
-who_bmi (object): BMI category based on WHO standards.
-phq_score (int): Patient Health Questionnaire score.
-depression_severity (object): Severity of depression.
-depressiveness (object): Self-reported level of depressiveness.
-suicidal (object): Suicidal tendencies
-depression_diagnosis (object): History of depression diagnosis.
-depression_treatment (object): History of receiving depression treatment.
-anxiety_diagnosis (object): History of anxiety diagnosis.
-anxiety_treatment (object): History of receiving anxiety treatment.
-epworth_score (float): Epworth Sleepiness Scale score.
-sleepiness (object): Self-reported level of sleepiness.
-anxiousness (object): Self-reported level of anxiousness.
-anxiety_severity (object): Severity of anxiety.
+1. age (int): Age of the individual.
+2. gender (object): Gender of the individual
+3. bmi (float): Body Mass Index of the individual
+4. who_bmi (object): BMI category based on WHO standards.
+5. phq_score (int): Patient Health Questionnaire score.
+6. depression_severity (object): Severity of depression.
+7. depressiveness (object): Self-reported level of depressiveness.
+8. suicidal (object): Suicidal tendencies
+9. depression_diagnosis (object): History of depression diagnosis.
+10. depression_treatment (object): History of receiving depression treatment.
+11. anxiety_diagnosis (object): History of anxiety diagnosis.
+12. anxiety_treatment (object): History of receiving anxiety treatment.
+13. epworth_score (float): Epworth Sleepiness Scale score.
+14. sleepiness (object): Self-reported level of sleepiness.
+15. anxiousness (object): Self-reported level of anxiousness.
+16. anxiety_severity (object): Severity of anxiety.
+    
 Source:
 
 https://www.kaggle.com/datasets/mahmoudosama22/anxiety-dataset
